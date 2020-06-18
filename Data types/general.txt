@@ -1,0 +1,5 @@
+character
+numeric (real or decimal)
+integer
+logical
+complex
